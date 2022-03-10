@@ -33,7 +33,7 @@ jobs:
       fail-fast: false
       matrix:
         config:
-          - image: "debian"
+          - image: "debian"  # TODO: Localise builds after rebuild
             tag: "latest"
           - image: "debian"
             tag: "bookworm"
