@@ -4,5 +4,5 @@
 #
 repository:
   description: Enable or disable automatic starting of services upon installation of packages.
-  homepage: https://robertdebock.nl/
+  homepage: https://buluma.github.io/
   topics: aptautostart, apt, autostart, service, invokerc, sysvinit, systemctl, ansible, molecule, tox, playbook, hacktoberfest
