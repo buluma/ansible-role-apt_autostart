@@ -2,7 +2,15 @@
 
 ## [Unreleased](https://github.com/buluma/ansible-role-apt_autostart/tree/HEAD)
 
-[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/0.1.9...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/1.0.0...HEAD)
+
+**Merged pull requests:**
+
+- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.5 to 1.0.7 [\#11](https://github.com/buluma/ansible-role-apt_autostart/pull/11) ([dependabot[bot]](https://github.com/apps/dependabot))
+
+## [1.0.0](https://github.com/buluma/ansible-role-apt_autostart/tree/1.0.0) (2023-04-15)
+
+[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/0.1.9...1.0.0)
 
 **Merged pull requests:**
 
@@ -10,15 +18,15 @@
 
 ## [0.1.9](https://github.com/buluma/ansible-role-apt_autostart/tree/0.1.9) (2022-11-08)
 
-[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/0.1.7...0.1.9)
-
-## [0.1.7](https://github.com/buluma/ansible-role-apt_autostart/tree/0.1.7) (2022-09-11)
-
-[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/0.1.8...0.1.7)
+[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/0.1.8...0.1.9)
 
 ## [0.1.8](https://github.com/buluma/ansible-role-apt_autostart/tree/0.1.8) (2022-09-11)
 
-[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/0.1.6...0.1.8)
+[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/0.1.7...0.1.8)
+
+## [0.1.7](https://github.com/buluma/ansible-role-apt_autostart/tree/0.1.7) (2022-09-11)
+
+[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/0.1.6...0.1.7)
 
 ## [0.1.6](https://github.com/buluma/ansible-role-apt_autostart/tree/0.1.6) (2022-07-15)
 
