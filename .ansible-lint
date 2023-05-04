@@ -13,5 +13,5 @@ exclude_paths:
   - ./requirements.yml
 parseable: true
 
-skip_list:
+warning_list:
   - syntax-check
