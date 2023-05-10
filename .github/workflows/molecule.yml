@@ -32,7 +32,7 @@ jobs:
         with:
           path: "${{ github.repository }}"
       - name: ansible-lint
-        uses: buluma/molecule-action@v5.0.1
+        uses: buluma/molecule-action@v5.0.6
         with:
           command: lint
   test:
