@@ -1,5 +1,5 @@
 ---
-image: "buluma/github-action-molecule:5.0.4"
+image: "buluma/github-action-molecule:5.0.7"
 
 variables:
   PY_COLORS: 1
@@ -12,15 +12,15 @@ molecule:
     - if: $CI_COMMIT_REF_NAME == "master"
   parallel:
     matrix:
-      - image: "debian"
+      - image: "debian-systemd"
         tag: "latest"
-      - image: "debian"
+      - image: "debian-systemd"
         tag: "bookworm"
-      - image: "ubuntu"
+      - image: "docker-ubuntu-systemd"
         tag: "latest"
-      - image: "ubuntu"
+      - image: "docker-ubuntu-systemd"
         tag: "focal"
-      - image: "ubuntu"
+      - image: "docker-ubuntu-systemd"
         tag: "bionic"
 
 galaxy:

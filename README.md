@@ -2,9 +2,9 @@
 
 Enable or disable automatic starting of services upon installation of packages.
 
-|GitHub|GitLab|Quality|Downloads|Version|
-|------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-apt_autostart/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-apt_autostart/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-apt_autostart/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-apt_autostart)|[![quality](https://img.shields.io/ansible/quality/58347)](https://galaxy.ansible.com/buluma/apt_autostart)|[![downloads](https://img.shields.io/ansible/role/d/58347)](https://galaxy.ansible.com/buluma/apt_autostart)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-apt_autostart.svg)](https://github.com/buluma/ansible-role-apt_autostart/releases/)|
+|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|---------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-apt_autostart/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-apt_autostart/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-apt_autostart/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-apt_autostart)|[![quality](https://img.shields.io/ansible/quality/58347)](https://galaxy.ansible.com/buluma/apt_autostart)|[![downloads](https://img.shields.io/ansible/role/d/58347)](https://galaxy.ansible.com/buluma/apt_autostart)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-apt_autostart.svg)](https://github.com/buluma/ansible-role-apt_autostart/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-apt_autostart.svg)](https://github.com/buluma/ansible-role-apt_autostart/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-apt_autostart.svg)](https://github.com/buluma/ansible-role-apt_autostart/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -65,6 +65,7 @@ The following roles are used to prepare a system. You can prepare your system in
 This role is a part of many compatible roles. Have a look at [the documentation of these roles](https://buluma.github.io/) for further information.
 
 Here is an overview of related roles:
+
 ![dependencies](https://raw.githubusercontent.com/buluma/ansible-role-apt_autostart/png/requirements.png "Dependencies")
 
 ## [Compatibility](#compatibility)
@@ -84,6 +85,10 @@ The minimum version of Ansible required is 2.10, tests have been done to:
 
 If you find issues, please register them in [GitHub](https://github.com/buluma/ansible-role-apt_autostart/issues)
 
+## [Changelog](#changelog)
+
+[Role History](https://github.com/buluma/ansible-role-apt_autostart/blob/master/CHANGELOG.md)
+
 ## [License](#license)
 
 [Apache-2.0](https://github.com/buluma/ansible-role-apt_autostart/blob/master/LICENSE).
@@ -93,3 +98,7 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 [buluma](https://buluma.github.io/)
 
 Please consider [sponsoring me](https://github.com/sponsors/buluma).
+
+### [Special Thanks](#special-thanks)
+
+Template inspired by [Robert de Bock](https://github.com/robertdebock)
