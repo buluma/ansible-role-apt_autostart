@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.3](https://github.com/buluma/ansible-role-apt_autostart/tree/1.0.3) (2023-05-28)
+
+[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/1.0.2...1.0.3)
+
+## [1.0.2](https://github.com/buluma/ansible-role-apt_autostart/tree/1.0.2) (2023-05-28)
+
+[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/1.0.1...1.0.2)
+
 ## [1.0.1](https://github.com/buluma/ansible-role-apt_autostart/tree/1.0.1) (2023-05-09)
 
 [Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/1.0.0...1.0.1)
