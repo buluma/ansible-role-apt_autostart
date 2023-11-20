@@ -1,10 +1,10 @@
-# [apt_autostart](#apt_autostart)
+# [Ansible role apt_autostart](#apt_autostart)
 
 Enable or disable automatic starting of services upon installation of packages.
 
-|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-apt_autostart/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-apt_autostart/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-apt_autostart/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-apt_autostart)|[![quality](https://img.shields.io/ansible/quality/58347)](https://galaxy.ansible.com/buluma/apt_autostart)|[![downloads](https://img.shields.io/ansible/role/d/58347)](https://galaxy.ansible.com/buluma/apt_autostart)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-apt_autostart.svg)](https://github.com/buluma/ansible-role-apt_autostart/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-apt_autostart.svg)](https://github.com/buluma/ansible-role-apt_autostart/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-apt_autostart.svg)](https://github.com/buluma/ansible-role-apt_autostart/pulls/)|
+|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-apt_autostart/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-apt_autostart/actions/workflows/molecule.yml)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-apt_autostart/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-apt_autostart)|[![downloads](https://img.shields.io/ansible/role/d/4641)](https://galaxy.ansible.com/buluma/apt_autostart)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-apt_autostart.svg)](https://github.com/buluma/ansible-role-apt_autostart/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-apt_autostart.svg)](https://github.com/buluma/ansible-role-apt_autostart/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-apt_autostart.svg)](https://github.com/buluma/ansible-role-apt_autostart/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
