@@ -1,21 +1,21 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-apt_autostart/tree/HEAD)
+## [1.0.4](https://github.com/buluma/ansible-role-apt_autostart/tree/1.0.4) (2023-12-24)
 
-[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/1.0.3...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/1.0.2...1.0.4)
 
 **Closed issues:**
 
 - Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#17](https://github.com/buluma/ansible-role-apt_autostart/issues/17)
 - Update action [\#16](https://github.com/buluma/ansible-role-apt_autostart/issues/16)
 
-## [1.0.3](https://github.com/buluma/ansible-role-apt_autostart/tree/1.0.3) (2023-05-28)
-
-[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/1.0.2...1.0.3)
-
 ## [1.0.2](https://github.com/buluma/ansible-role-apt_autostart/tree/1.0.2) (2023-05-28)
 
-[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/1.0.1...1.0.2)
+[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/1.0.3...1.0.2)
+
+## [1.0.3](https://github.com/buluma/ansible-role-apt_autostart/tree/1.0.3) (2023-05-28)
+
+[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/1.0.1...1.0.3)
 
 ## [1.0.1](https://github.com/buluma/ansible-role-apt_autostart/tree/1.0.1) (2023-05-09)
 
@@ -38,15 +38,15 @@
 
 ## [0.1.9](https://github.com/buluma/ansible-role-apt_autostart/tree/0.1.9) (2022-11-08)
 
-[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/0.1.8...0.1.9)
-
-## [0.1.8](https://github.com/buluma/ansible-role-apt_autostart/tree/0.1.8) (2022-09-11)
-
-[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/0.1.7...0.1.8)
+[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/0.1.7...0.1.9)
 
 ## [0.1.7](https://github.com/buluma/ansible-role-apt_autostart/tree/0.1.7) (2022-09-11)
 
-[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/0.1.6...0.1.7)
+[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/0.1.8...0.1.7)
+
+## [0.1.8](https://github.com/buluma/ansible-role-apt_autostart/tree/0.1.8) (2022-09-11)
+
+[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/0.1.6...0.1.8)
 
 ## [0.1.6](https://github.com/buluma/ansible-role-apt_autostart/tree/0.1.6) (2022-07-15)
 
