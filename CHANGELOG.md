@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-apt_autostart/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/1.0.4...HEAD)
+
+**Closed issues:**
+
+- Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#22](https://github.com/buluma/ansible-role-apt_autostart/issues/22)
+
 ## [1.0.4](https://github.com/buluma/ansible-role-apt_autostart/tree/1.0.4) (2023-12-24)
 
 [Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/1.0.2...1.0.4)
