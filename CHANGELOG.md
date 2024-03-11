@@ -1,11 +1,12 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-apt_autostart/tree/HEAD)
+## [24.2.26](https://github.com/buluma/ansible-role-apt_autostart/tree/24.2.26) (2024-02-19)
 
-[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/1.2.0...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/1.2.0...24.2.26)
 
 **Merged pull requests:**
 
+- Bump release-drafter/release-drafter from 5 to 6 [\#28](https://github.com/buluma/ansible-role-apt_autostart/pull/28) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#27](https://github.com/buluma/ansible-role-apt_autostart/pull/27) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.2.0](https://github.com/buluma/ansible-role-apt_autostart/tree/1.2.0) (2024-01-20)
