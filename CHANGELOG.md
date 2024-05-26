@@ -36,10 +36,6 @@
 - Update action [\#21](https://github.com/buluma/ansible-role-apt_autostart/issues/21)
 - rebuild action [\#20](https://github.com/buluma/ansible-role-apt_autostart/issues/20)
 
-**Merged pull requests:**
-
-- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.7 to 1.0.8 [\#23](https://github.com/buluma/ansible-role-apt_autostart/pull/23) ([dependabot[bot]](https://github.com/apps/dependabot))
-
 ## [1.0.5](https://github.com/buluma/ansible-role-apt_autostart/tree/1.0.5) (2023-12-27)
 
 [Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/1.0.4...1.0.5)
@@ -71,6 +67,7 @@
 
 **Merged pull requests:**
 
+- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.7 to 1.0.8 [\#23](https://github.com/buluma/ansible-role-apt_autostart/pull/23) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/molecule-action from 5.0.5 to 5.0.6 [\#13](https://github.com/buluma/ansible-role-apt_autostart/pull/13) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/molecule-action from 5.0.1 to 5.0.5 [\#12](https://github.com/buluma/ansible-role-apt_autostart/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.5 to 1.0.7 [\#11](https://github.com/buluma/ansible-role-apt_autostart/pull/11) ([dependabot[bot]](https://github.com/apps/dependabot))
