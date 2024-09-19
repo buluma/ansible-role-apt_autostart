@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-apt_autostart/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/24.3.31...HEAD)
+
+**Merged pull requests:**
+
+- Bump ansible/ansible-lint from 24.7.0 to 24.9.0 [\#33](https://github.com/buluma/ansible-role-apt_autostart/pull/33) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [24.3.31](https://github.com/buluma/ansible-role-apt_autostart/tree/24.3.31) (2024-03-29)
 
 [Full Changelog](https://github.com/buluma/ansible-role-apt_autostart/compare/24.2.26...24.3.31)
