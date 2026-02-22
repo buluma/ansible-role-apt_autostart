@@ -1,1 +1,2 @@
 ansible-role-apt_autostart
+ansible-role-apt_autostart [generator]: ERROR: Unhandled exception when retrieving 'DEFAULT_LOCAL_TMP': [Errno 1] Operation not permitted: '/Users/shadowwalker/.ansible/tmp/ansible-local-821530v97ud8i'
