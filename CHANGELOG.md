@@ -99,6 +99,7 @@
 **Merged pull requests:**
 
 - Bump buluma/molecule-action from 5.0.1 to 5.0.4 [\#8](https://github.com/buluma/ansible-role-apt_autostart/pull/8) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.3 to 1.0.4 [\#3](https://github.com/buluma/ansible-role-apt_autostart/pull/3) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [0.1.9](https://github.com/buluma/ansible-role-apt_autostart/tree/0.1.9) (2022-11-08)
 
@@ -139,10 +140,6 @@
 **Closed issues:**
 
 - Localise builds after rebuild [\#1](https://github.com/buluma/ansible-role-apt_autostart/issues/1)
-
-**Merged pull requests:**
-
-- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.3 to 1.0.4 [\#3](https://github.com/buluma/ansible-role-apt_autostart/pull/3) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [0.1.1](https://github.com/buluma/ansible-role-apt_autostart/tree/0.1.1) (2022-03-10)
 
